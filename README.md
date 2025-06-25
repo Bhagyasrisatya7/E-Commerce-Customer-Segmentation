@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analytics Dashboard
+# 🛒 E-Commerce Sales Analytics 
 
 A comprehensive **Power BI dashboard** built using e-commerce transaction data to analyze customer behavior, product performance, sales trends, and profitability across various regions and categories. This project helps in understanding how different segments and products contribute to overall business performance.
 
