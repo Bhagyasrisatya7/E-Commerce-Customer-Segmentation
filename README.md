@@ -53,7 +53,8 @@ A comprehensive **Power BI dashboard** built using e-commerce transaction data t
 
 ## 👤 Author
 
-- **Koushika T** – Power BI Developer  
+- **Koushika T** – Data Analyst
+- **Bhagiyasri** - Data Analyst
 - [LinkedIn](https://linkedin.com/in/koushika-thangavelu-747b5a259/)  
 
 ---
